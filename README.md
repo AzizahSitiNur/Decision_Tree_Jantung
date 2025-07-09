@@ -52,7 +52,7 @@ Hasil dari penelitian menyatakan bahwa algoritma Decision Tree bekerja dengan ba
 ---
 
 ## 📷 Visualisasi
-![Confusion Matrix - Data Training](img/training)
-![Confusion Matrix - Data Testing](img/testing)
+![Confusion Matrix - Data Training](img/training.png)
+![Confusion Matrix - Data Testing](img/testing.png)
 
 ---
