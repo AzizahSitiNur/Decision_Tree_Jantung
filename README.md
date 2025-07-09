@@ -25,7 +25,7 @@ Dataset diambil dari [Kaggle – Heart Disease Classification Dataset](https://w
 
 ---
 
-## 🔁 Proses Analisis
+## Proses Analisis
 1. **Preprocessing Data**: normalisasi, encoding, dan transformasi label
 2. **Stratified Splitting**: pembagian data menjadi 70% train, 15% validasi, 15% test
 3. **Modeling**: klasifikasi menggunakan Decision Tree
@@ -51,7 +51,7 @@ Hasil dari penelitian menyatakan bahwa algoritma Decision Tree bekerja dengan ba
 
 ---
 
-## 📷 Visualisasi
+## Visualisasi Confussion Matrix
 ![Confusion Matrix - Data Training](img/training.png)
 ![Confusion Matrix - Data Testing](img/testing.png)
 
